@@ -1,0 +1,4 @@
+# all compiled jars
+src/*.jar
+# all packages' classes
+src/*/*.class
